@@ -17,4 +17,4 @@ root 5'tir. root'un sağında 7 solunda 3 bulunur.
 3'ün solunda bir sağında 4 bulunur.
 1'in solunda 0 ve sağ taraftaysa 2 bulunur.
 
-Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+<!-- Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb. -->
